@@ -1,4 +1,5 @@
-About Project 👨‍💻
+About The Project
+
 Performed India based hardware company sales insights - A Data Analysis project.
 
 Developed ETL mappings using SQL to extract the data from unstructured data and transformed it to the staging area to conduct data cleaning and design star schema data model on Tableau.
